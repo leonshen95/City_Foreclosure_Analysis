@@ -5,7 +5,7 @@ homes sit empty for months or years at a time awaiting foreclosure sale; often c
 Given that the City owns a number of properties, being able to figure out what factors caused a property to foreclose, will allow the city to step in and intervene.
 
 Goals
-Figure out:
-What factors cause homes to be foreclosed
-In what neighborhoods are most foreclosures taking place
-What city-owned properties are likely to be up for foreclosure
+- Figure out:
+- What factors cause homes to be foreclosed
+- In what neighborhoods are most foreclosures taking place
+- What city-owned properties are likely to be up for foreclosure
