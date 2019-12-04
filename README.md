@@ -26,6 +26,7 @@ Figure out:
 
 ## Train and Predict
 
-- You can train and build model under [training](https://github.com/leonshen95/City_Foreclosure_Analysis/tree/master/training) - **_311_feature.py_** helps to preprocess the 311 requests data and determine the potential foreclosure data. 
+- You can train and build model under [training](https://github.com/leonshen95/City_Foreclosure_Analysis/tree/master/training) 
+- **_311_feature.py_** helps to preprocess the 311 requests data and determine the potential foreclosure data. 
 - **_foreclosure.ipynb_** is used to train and build the model. 
 - The result would be training accuracy and a heat map distribution of property foreclosure.
